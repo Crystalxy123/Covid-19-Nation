@@ -4,5 +4,5 @@ We built a system to evaluate the risk of COVID-19 from four dimensions, Nationa
 
 Four dimensions and their respective indicators are presented in the Table 1.
 Table 1. Bayesian network variables and their states
-
+![image]()
 And actually the 1,2 or 3 in the table means the value of the indicator’s state.
